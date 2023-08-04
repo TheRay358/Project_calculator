@@ -8,8 +8,10 @@
     display: flex;
     align-items: center;
     justify-content: center;
-;
 
+}
+.casio{
+    font-size: 20px;
 }
 .calculator{
     margin: 10px;
